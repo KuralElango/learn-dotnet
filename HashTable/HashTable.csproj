@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B63DCAB-E63D-4799-992B-09EE7C91DBD2}</ProjectGuid>
+    <ProjectGuid>{B4C5621A-A475-4EA5-99FF-30979465506A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Structure_Constructor</RootNamespace>
-    <AssemblyName>Structure_Constructor</AssemblyName>
+    <RootNamespace>HashTable</RootNamespace>
+    <AssemblyName>HashTable</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

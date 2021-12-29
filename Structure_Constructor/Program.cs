@@ -14,11 +14,11 @@ namespace Structure_Constructor
             private string author;
             private int id;
 
-            public Books(string n, string a, int i)
+            public Books(string name, string author, int id)
             {
-                name = n;
-                author = a;
-                id = i;
+                this.name = name;
+                this.author = author;
+                this.id = id;
             }
 
             public override string ToString()
